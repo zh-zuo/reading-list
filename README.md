@@ -24,6 +24,10 @@ Tick the box `[x]` when you've read it. GitHub renders markdown checkboxes, so e
 
 - [Gravitational waves](papers/gravitational-waves.md)
 - [Cosmology](papers/cosmology.md)
+- [High redshift](papers/high-redshift.md)
+- [Image reconstruction project](papers/image-reconstruction.md)
+- [WFSS project](papers/wfss.md)
+- [Human–AI collaboration](papers/human-ai-collaboration.md)
 
 To add a category, copy one of the files above, clear the entries, and add a link here.
 
