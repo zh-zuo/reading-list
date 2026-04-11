@@ -4,7 +4,7 @@ Papers on GW theory, detectors, and population analyses. Main active project: AS
 
 ## P1 — read soon
 
-- [ ] **Marcoccia, Nardini & Pieroni 2024** — *Probing primordial black holes at high redshift with future gravitational wave detectors* — anchor paper for the ASTRO 501 seminar; Fisher-matrix forecasts showing ET extends the PBHB horizon by ~10× — [MNRAS 531, 4444](https://academic.oup.com/mnras/article/531/4/4444/7659365) · [arXiv:2403.16030](https://arxiv.org/abs/2403.16030) · [Zotero](zotero://select/library/items/REPLACE_KEY)
+- [x] **Marcoccia, Nardini & Pieroni 2024** — *Probing primordial black holes at high redshift with future gravitational wave detectors* — anchor paper for the ASTRO 501 seminar; Fisher-matrix forecasts showing ET extends the PBHB horizon by ~10× — [MNRAS 531, 4444](https://academic.oup.com/mnras/article/531/4/4444/7659365) · [arXiv:2403.16030](https://arxiv.org/abs/2403.16030) · [Zotero](zotero://select/library/items/REPLACE_KEY)
 - [ ] **Robson, Cornish & Liu 2019** — *The construction and use of LISA sensitivity curves* — analytic LISA noise curve formula used in the horizon-plot notebook — [CQG 36, 105011](https://iopscience.iop.org/article/10.1088/1361-6382/ab1101) · [arXiv:1803.01944](https://arxiv.org/abs/1803.01944) · [Zotero](zotero://select/library/items/REPLACE_KEY)
 
 ## P2 — this semester
