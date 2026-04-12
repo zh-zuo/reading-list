@@ -4,7 +4,9 @@ Papers on human–AI collaboration — LLM-assisted research workflows, agentic 
 
 ## P1 — read soon
 
-_(none yet)_
+- [ ] **Tan+2026** — *When Should Humans Step In? Optimal Human Dispatching in AI-Assisted Decisions* — Mathematical framework on human-AI collaboration — [arXiv](https://arxiv.org/abs/2603.13688)
+
+
 
 ## P2 — this semester
 
