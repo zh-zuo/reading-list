@@ -29,6 +29,7 @@ Tick the box `[x]` when you've read it. GitHub renders markdown checkboxes, so e
 - [WFSS project](papers/wfss.md)
 - [Human–AI collaboration](papers/human-ai-collaboration.md)
 - [NLP](papers/nlp.md)
+- [Implicit reasoning & agent orchestration](papers/implicit-reasoning.md)
 
 To add a category, copy one of the files above, clear the entries, and add a link here.
 
