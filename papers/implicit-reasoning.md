@@ -7,10 +7,11 @@ Papers on implicit / latent reasoning in LLMs — reasoning carried out *interna
 ## P1 — read soon
 
 - [ ] **Li+2025** — *Implicit Reasoning in Large Language Models: A Comprehensive Survey* — the map of the field: taxonomy by execution paradigm (latent optimization, signal-guided control, layer-recurrent) and by where refinement happens (token / trajectory / internal-state level) — [arXiv](https://arxiv.org/abs/2509.02350)
-- [ ] **Su+2025** — *Token Assorted: Mixing Latent and Text Tokens for Improved Language Model Reasoning* — the concrete "reasoning-token abstraction" I was pointed to: abstracts early reasoning steps into latent discrete tokens (VQ-VAE), shortening traces while keeping accuracy — [arXiv](https://arxiv.org/abs/2502.03275)
+- [ ] **Ramji+2026** — *Thinking Without Words: Efficient Latent Reasoning with Abstract Chain-of-Thought* — the recent "abstract reasoning token" paper I was pointed to: reasons through a reserved vocabulary of discrete *abstract* tokens instead of words, ~11.6× fewer reasoning tokens at comparable accuracy — [arXiv](https://arxiv.org/abs/2604.22709)
 
 ## P2 — this semester
 
+- [ ] **Su+2025** — *Token Assorted: Mixing Latent and Text Tokens for Improved Language Model Reasoning* — earlier/related: abstracts early reasoning steps into latent discrete tokens (VQ-VAE) mixed with text — the predecessor to the abstract-token idea — [arXiv](https://arxiv.org/abs/2502.03275)
 - [ ] **Chen+2025** — *Reasoning Beyond Language: A Comprehensive Survey on Latent Chain-of-Thought Reasoning* — broader survey of latent CoT; splits reasoning tokens into discrete (symbolic control cues) vs continuous (learned embeddings) — context for the token-abstraction angle — [arXiv](https://arxiv.org/abs/2505.16782)
 
 ## P3 — on the radar
