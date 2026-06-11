@@ -30,6 +30,8 @@ Tick the box `[x]` when you've read it. GitHub renders markdown checkboxes, so e
 - [Human–AI collaboration](papers/human-ai-collaboration.md)
 - [NLP](papers/nlp.md)
 - [Implicit reasoning & agent orchestration](papers/implicit-reasoning.md)
+- [Embedding inversion & perturbation defenses](papers/embedding-inversion.md)
+- [LLM training](papers/llm-training.md)
 
 To add a category, copy one of the files above, clear the entries, and add a link here.
 
