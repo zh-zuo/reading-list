@@ -32,6 +32,7 @@ Tick the box `[x]` when you've read it. GitHub renders markdown checkboxes, so e
 - [Implicit reasoning & agent orchestration](papers/implicit-reasoning.md)
 - [Embedding inversion & perturbation defenses](papers/embedding-inversion.md)
 - [LLM training](papers/llm-training.md)
+- [XTE J1118+480 — MIR origin debate](papers/xte-j1118.md)
 
 To add a category, copy one of the files above, clear the entries, and add a link here.
 
