@@ -6,6 +6,7 @@ The training pipeline by stage — whole-pipeline surveys, pretraining / mid-tra
 
 ## P1 — read soon
 
+- [ ] **Vaswani+2017** — *Attention Is All You Need* (NeurIPS 2017, pp. 5998–6008) — the Transformer: self-attention replaces recurrence; the architecture everything else in this thread builds on — [arXiv](https://arxiv.org/abs/1706.03762)
 - [ ] **Zhao+2023** — *A Survey of Large Language Models* (frequently revised) — the most comprehensive single reference: pretraining, adaptation tuning, utilization, and alignment in one place; the scaffolding for everything else — [arXiv](https://arxiv.org/abs/2303.18223)
 
 ## P2 — this semester
